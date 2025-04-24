@@ -8,7 +8,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=deepakScript&theme=radical)
 <table><tbody><tr border="none"><td width="50%" align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=deepakScript&theme=dark">
-  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=&theme=dark&show_icons=true&count_private=true"></td><td width="50%" align="center">
+  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=deepakScript&theme=dark&show_icons=true&count_private=true"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=deepakScript&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td>
 </tr>
 
